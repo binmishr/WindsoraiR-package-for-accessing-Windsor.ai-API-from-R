@@ -1,0 +1,1 @@
+# WindsoraiR-package-for-accessing-Windsor.ai-API-from-R
